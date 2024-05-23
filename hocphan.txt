@@ -1,0 +1,15 @@
+14
+100984#Dai so tuyen tinh#Bat Buoc#2#Dai hoc
+002298#Kinh Te Chinh Tri#Bat Buoc#2#Dai hoc
+007641#Xac Suat Thong Ke#Bat Buoc#2#Dai hoc
+100651#Triet hoc Mac Lenin#Bat Buoc#3#Dai hoc
+001657#GDQP&AN1#Bat Buoc#1#Dai hoc
+101923#Nguyen li ngon ngu lap trinh#Bat Buoc#2#Dai hoc
+101922#Ky nang ung dung cong nghe thong tin#Bat Buoc#3#Dai hoc
+100822#Anh van 1#Bat Buoc#2#Dai hoc
+101943#Cau truc du lieu va Giai thuat#Bat Buoc#2#Dai hoc
+003158#Mang may tinh#Tu Chon#3#Dai hoc
+006322#Tu tuong Ho Chi Minh#Bat Buoc#2#Dai hoc
+001662#GDQP&AN2#Bat Buoc#2#Dai hoc
+004030#Quy hoach thuc nghiem#Tu Chon#2#Dai hoc
+0B000016#Ky nang kham pha ban than#Tu Chon#1#Dai hoc
